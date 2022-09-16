@@ -1,0 +1,1 @@
+for macos: brew install coreutils

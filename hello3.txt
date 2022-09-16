@@ -1,0 +1,3 @@
+gdate -d '09/15/2022 16:44:14' +"%s"
+GetFileInfo -d hello.txt
+date +%s
